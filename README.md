@@ -12,7 +12,7 @@ The dashboard enables business users to monitor KPIs, identify high-performing c
 
 > Add your dashboard screenshot here
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard.PNG)
 
 ---
 
